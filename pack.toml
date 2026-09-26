@@ -1,0 +1,13 @@
+name = "cobble-server"
+author = "zeke51500"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "879ecadf2d492685bac639da6dd4d30d1e6a4091ca0943dba929746af0a15712"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "1.21.1"

@@ -1,0 +1,61 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "3e39d76864c9d949c6fd793149d97480cccbbd114e3c25caf6773b4e612a825b"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "7fe287ca1bed0ad67f37e62a5816da7b7ae59486102c5e4b7532f0a999444527"
+metafile = true
+
+[[files]]
+file = "mods/cobbledgacha.pw.toml"
+hash = "827068db8669c6736b4269a2b245913cf0004c4b864c3d65fe07ce408fb86627"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "4ee82c782d240cf3bce3c939203ddc4f331e80c1f8e499208370f53bbc9ba6f3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "5f62f54e16fdc97a0fb21b63a563583f85d141772f6aa99f68d40cd654b7dc35"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "a27d167b9f7f2768da2d47bfe24504781889aa0d0f8fab6b0780fd3b1968d9b1"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
+metafile = true
